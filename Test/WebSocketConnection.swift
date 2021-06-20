@@ -1,9 +1,8 @@
 //
 //  WebSocketConnection.swift
-//  WebSockets
+//  Test
 //
-//  Created by zen on 6/17/19.
-//  Copyright © 2019 AppSpector. All rights reserved.
+//  Created by charanbir sandhu on 20/06/21.
 //
 
 import Foundation
